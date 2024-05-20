@@ -17,7 +17,7 @@ This is a React Native application that allows users to generate random password
 
 To install the application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/.git`
+1. Clone the repository: `git clone https://github.com/ankurpunia30/PasswordGenerator.git`
 2. Install the dependencies: `npm install`
 3. Start the application: `npm start`
 
